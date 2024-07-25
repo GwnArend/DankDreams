@@ -1,0 +1,23 @@
+{
+  "blockChances": {
+    "entries": {
+      "minecraft:quartz_block": 0.3,
+      "minecraft:gold_block": 0.3,
+      "minecraft:iron_block": 0.3,
+      "minecraft:diamond_block": 0.2,
+	  "iceandfire:silver_block": 0.3,
+	  "iceandfire:dragonscale_amythest": 0.05,
+	  "iceandfire:dragonscale_black": 0.05,
+	  "iceandfire:dragonscale_blue": 0.05,
+	  "iceandfire:dragonscale_bronze": 0.05,
+	  "iceandfire:dragonscale_copper": 0.05,
+	  "iceandfire:dragonscale_electric": 0.05,
+	  "iceandfire:dragonscale_gray": 0.05,
+	  "iceandfire:dragonscale_green": 0.05,
+	  "iceandfire:dragonscale_red": 0.05,
+	  "iceandfire:dragonscale_sapphire": 0.05,
+	  "draconicevolution:draconium_block": 0.01
+    },
+    "defaultBlock": "minecraft:iron_block"
+  }
+}
